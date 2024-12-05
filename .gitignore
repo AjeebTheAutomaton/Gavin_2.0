@@ -1,0 +1,12 @@
+# Ignore Maven build output directory
+target/
+
+# Ignore Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.swp
