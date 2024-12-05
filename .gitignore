@@ -10,3 +10,6 @@ mvnw.cmd
 *.log
 *.tmp
 *.swp
+
+# Ignore BlockedQueenMoveDIR.txt as its too large and redundant after 1.0-SNAPSHOT
+src/main/resources/Directories/BlockedQueenMoveDIR.txt
