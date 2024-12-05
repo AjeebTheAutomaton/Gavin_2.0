@@ -1,0 +1,4 @@
+src/main/resources/Directories/BlockedQueenMoveDIR.txt filter=lfs diff=lfs merge=lfs -text
+src/main/resources/Directories/BlockedRookMoveDIR.txt filter=lfs diff=lfs merge=lfs -text
+src/main/resources/Directories/BlockedBishopMoveDIR.txt filter=lfs diff=lfs merge=lfs -text
+* !text !filter !merge !diff
