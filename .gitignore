@@ -14,3 +14,5 @@ mvnw.cmd
 # Ignore Unused directory
 src/main/resources/Unused/
 
+# Ignore directories
+src/main/resources/Directories/
