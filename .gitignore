@@ -10,3 +10,7 @@ mvnw.cmd
 *.log
 *.tmp
 *.swp
+
+# Ignore Unused directory
+src/main/resources/Unused/
+
